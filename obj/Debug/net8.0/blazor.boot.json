@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Mood-Weather-Journal",
   "resources": {
-    "hash": "sha256-RQkwiKOW2urmSX76x3veoT1GJZQsn791wNIHoJxAzrs=",
+    "hash": "sha256-yw8ZGqrnIjRAdVyfFjVKvMiiB2Rt7SB70XmpuaZq+B0=",
     "jsModuleNative": {
       "dotnet.native.8.0.16.kriewsvwuh.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Im6xq+lOse4P/VnAyrA3hwPstV67V5dB0EwQWcjipyE=",
       "netstandard.wasm": "sha256-PK0GLtj6kQVtZPzq0FZlnSdHh7geujg80LqKdJXA4pI=",
       "System.Private.CoreLib.wasm": "sha256-gEwccs7GbRSPGmeWBOKxNroYfyM+mZ7hqbP3ki1iwX0=",
-      "Mood-Weather-Journal.wasm": "sha256-77eM7i6rtLUyi5CPPlnD+dFYr+MH13oWs0KInaeqOgI="
+      "Mood-Weather-Journal.wasm": "sha256-EOwoPrRuXhO2nVV2ZVKMbEKZjPqK2t4I4rHPfHhTcz8="
     },
     "pdb": {
-      "Mood-Weather-Journal.pdb": "sha256-s5B5ZRFtHQC/Vemxjdl0BxLwGFA0qGDoPgM/0MfVNk0="
+      "Mood-Weather-Journal.pdb": "sha256-Q5LpGIyYx7I0a0zm55ZebiFr9ka5UDz+1B8VZuTKNFU="
     }
   },
   "cacheBootResources": true,

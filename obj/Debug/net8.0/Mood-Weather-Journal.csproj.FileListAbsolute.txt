@@ -1029,3 +1029,7 @@
 /Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/obj/Debug/net8.0/refint/Mood-Weather-Journal.dll
 /Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/obj/Debug/net8.0/Mood-Weather-Journal.pdb
 /Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/obj/Debug/net8.0/ref/Mood-Weather-Journal.dll
+/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/bin/Debug/net8.0/dist/web.config
+/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/bin/Debug/net8.0/dist/wwwroot/sample-data/weather.json
+/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/bin/Debug/net8.0/dist/wwwroot/_framework/blazor.boot.json
+/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/obj/Debug/net8.0/Mood-Weather-Journal.sourcelink.json
