@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Mood-Weather-Journal.props" />
+</Project>

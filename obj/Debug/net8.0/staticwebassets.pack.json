@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/obj/Debug/net8.0/compressed/0tsw6woqkc.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/obj/Debug/net8.0/scopedcss/bundle/Mood-Weather-Journal.styles.css",
+      "PackagePath": "staticwebassets/Mood-Weather-Journal.styles.css"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Mood-Weather-Journal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Mood-Weather-Journal.props",
+      "PackagePath": "build\\Mood-Weather-Journal.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Mood-Weather-Journal.props",
+      "PackagePath": "buildMultiTargeting\\Mood-Weather-Journal.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Mood-Weather-Journal.props",
+      "PackagePath": "buildTransitive\\Mood-Weather-Journal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
