@@ -1,0 +1,44 @@
+🚀 Starting deployment...
+Timestamp: Fri May 23 16:08:20 CDT 2025
+Build started 5/23/2025 4:08:20 PM.
+     1>Project "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/Mood-Weather-Journal.sln" on node 1 (Clean target(s)).
+     1>ValidateSolutionConfiguration:
+         Building solution configuration "Debug|Any CPU".
+     1>Done Building Project "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/Mood-Weather-Journal.sln" (Clean target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.22
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Mood-Weather-Journal -> /Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/bin/Release/net8.0/Mood-Weather-Journal.dll
+  Mood-Weather-Journal (Blazor output) -> /Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/bin/Release/net8.0/wwwroot
+  Optimizing assemblies for size may change the behavior of the app. Be sure to test after publishing. See: https://aka.ms/dotnet-illink
+  Optimizing assemblies for size may change the behavior of the app. Be sure to test after publishing. See: https://aka.ms/dotnet-illink
+  Mood-Weather-Journal -> /Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/bin/Release/net8.0/publish/
+💾 Committing to gh-pages...
+[gh-pages 4262749] Deploy on Fri May 23 16:08:32 CDT 2025
+ 22 files changed, 889 insertions(+), 9 deletions(-)
+ create mode 100644 gh-pages/gh-pages/dist/dist/dist/gh-pages/dist/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/dist/gh-pages/dist/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/dist/gh-pages/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/dist/gh-pages/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/dist/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/dist/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/gh-pages/dist/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/gh-pages/dist/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/gh-pages/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/gh-pages/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/dist/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/dist/gh-pages/dist/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/gh-pages/dist/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/dist/gh-pages/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/dist/gh-pages/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/gh-pages/dist/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/gh-pages/dist/wwwroot/sample-data/weather.json
+ create mode 100644 gh-pages/gh-pages/gh-pages/wwwroot/_framework/blazor.boot.json
+ create mode 100644 gh-pages/gh-pages/gh-pages/wwwroot/sample-data/weather.json
+🌐 Pushing to GitHub Pages...

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0ocZhSFcFhg=",
+  "dgSpecHash": "acYo5w2pm80=",
   "success": true,
   "projectFilePath": "/Users/phanuellemanuel/Desktop/GitHub/Mood-Weather-Journal/Mood-Weather-Journal.csproj",
   "expectedPackageFiles": [
@@ -30,8 +30,7 @@
     "/Users/phanuellemanuel/.nuget/packages/microsoft.jsinterop.webassembly/8.0.16/microsoft.jsinterop.webassembly.8.0.16.nupkg.sha512",
     "/Users/phanuellemanuel/.nuget/packages/microsoft.net.illink.tasks/8.0.16/microsoft.net.illink.tasks.8.0.16.nupkg.sha512",
     "/Users/phanuellemanuel/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.16/microsoft.net.sdk.webassembly.pack.8.0.16.nupkg.sha512",
-    "/Users/phanuellemanuel/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
-    "/Users/phanuellemanuel/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.16/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.16.nupkg.sha512"
+    "/Users/phanuellemanuel/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

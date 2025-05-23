@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "Mood-Weather-Journal",
   "resources": {
-    "hash": "sha256-A/X0cK37+Puhi4QSvkMknHDJc/OWrWPjSnbbXpinQHk=",
+    "hash": "sha256-+0PmsMnNJTeAV5Fk/wHKONkolwbmb2+8V0nvGo6rxec=",
     "jsModuleNative": {
-      "dotnet.native.8.0.16.w5mhb2p5h3.js": "sha256-AnPQtEN9rGUfgtP7261KjemEatISV2rDxhwf960lvG0="
+      "dotnet.native.8.0.16.kriewsvwuh.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.16.9nicep1dl9.js": "sha256-t76BRXwt7ie+t1popBz8/uUmIQCWeGU9XALjF0psLNw="
+      "dotnet.runtime.8.0.16.gkvu1y0sfj.js": "sha256-t76BRXwt7ie+t1popBz8/uUmIQCWeGU9XALjF0psLNw="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-msROX8W2r8NPHTnr9x+uOWhVL3iV7AdF3xk8gS4ezMI="
+      "dotnet.native.wasm": "sha256-UiaFtxLHzlxisuBqZWMdl4IYCuHWyjZuv8yURy9ZnqQ="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
