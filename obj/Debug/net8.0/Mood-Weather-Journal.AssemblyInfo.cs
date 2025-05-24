@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mood-Weather-Journal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+764247e840956f2889ea25d7e673cb68ab7d7e3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ea75c2dbc56a4fe5a6bf9a9b513b0c39dbad45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mood-Weather-Journal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mood-Weather-Journal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
