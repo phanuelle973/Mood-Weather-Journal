@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Mood-Weather-Journal",
   "resources": {
-    "hash": "sha256-vGeJkgxRfGHDlQhLlr+HBpWnonhv6UQ3HoBr14HqIAY=",
+    "hash": "sha256-A8Juxw6hoGFCCILRICpW0oDiwU/OAFsNEJ8cjL3vm3c=",
     "jsModuleNative": {
       "dotnet.native.8.0.16.w5mhb2p5h3.js": "sha256-AnPQtEN9rGUfgtP7261KjemEatISV2rDxhwf960lvG0="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-QnyRdn6PV0rA2ijVv3cAtKcYs5PFHIHnbaY6fYWZ1uc=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-3ZhhLqIl/a3sQpZRtZoP3l0PQlX+2Joo9fqnzbZmm6c=",
-      "Mood-Weather-Journal.wasm": "sha256-ETcWXUp4oFcNjfwOGizGsBDEQQPj3rEO2t7iBfRignY=",
+      "Mood-Weather-Journal.wasm": "sha256-MEk2jWi8z1tHoW3tpoDL/Qpl29bmEEuxKAtY/fV6+Jk=",
       "System.Collections.Concurrent.wasm": "sha256-hl5D9e3GZsGrBBMQI9r/a+RjYp+hrwcYNCvUIQzx9XE=",
       "System.Collections.wasm": "sha256-hBiy6wHI1E4uEANmJuSmqFsxjVRc8BUBYvBRmQMeGp4=",
       "System.ComponentModel.wasm": "sha256-xv5QCN6xFXKtxyKEp06gpiMZPCjLiA1aWvWq5BLb5us=",
